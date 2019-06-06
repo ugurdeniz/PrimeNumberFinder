@@ -1,0 +1,6 @@
+C:\Users\ugur\Desktop\GASB\GASB.Contract\obj\Debug\GASB.Contract.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\GASB\GASB.Contract\obj\Debug\GASB.Contract.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\GASB\GASB.Contract\bin\Debug\GASB.Contract.dll
+C:\Users\ugur\Desktop\GASB\GASB.Contract\bin\Debug\GASB.Contract.pdb
+C:\Users\ugur\Desktop\GASB\GASB.Contract\obj\Debug\GASB.Contract.dll
+C:\Users\ugur\Desktop\GASB\GASB.Contract\obj\Debug\GASB.Contract.pdb

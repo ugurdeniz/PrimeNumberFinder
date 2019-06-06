@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GASB">
+  <DataContextMoniker Name="/GASBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8f2d9454-f637-4364-8afc-7b4d8480b8cf" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/GASBDataContext/CLIENT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="141aca83-2f58-443b-baea-ff402ac5150b" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a8e9f99-135c-43f5-854a-983c5287611b" absoluteBounds="0.75, 2.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/GASBDataContext/JOB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6e613d0-ae4c-4649-ab73-a85d7981639c" absoluteBounds="0.765, 3.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

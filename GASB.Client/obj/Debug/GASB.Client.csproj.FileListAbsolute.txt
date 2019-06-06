@@ -1,0 +1,10 @@
+C:\Users\ugur\Desktop\GASB\GASB.Client\bin\Debug\GASB.Client.exe.config
+C:\Users\ugur\Desktop\GASB\GASB.Client\bin\Debug\GASB.Client.exe
+C:\Users\ugur\Desktop\GASB\GASB.Client\bin\Debug\GASB.Client.pdb
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.Form1.resources
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.Properties.Resources.resources
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.csproj.GenerateResource.Cache
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.exe
+C:\Users\ugur\Desktop\GASB\GASB.Client\obj\Debug\GASB.Client.pdb

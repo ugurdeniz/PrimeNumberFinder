@@ -1,0 +1,7 @@
+C:\Users\ugur\Desktop\GASB\GASB.Service\obj\Debug\GASB.Service.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\GASB\GASB.Service\obj\Debug\GASB.Service.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\GASB\GASB.Service\bin\GASB.Service.dll.config
+C:\Users\ugur\Desktop\GASB\GASB.Service\bin\GASB.Service.dll
+C:\Users\ugur\Desktop\GASB\GASB.Service\bin\GASB.Service.pdb
+C:\Users\ugur\Desktop\GASB\GASB.Service\obj\Debug\GASB.Service.dll
+C:\Users\ugur\Desktop\GASB\GASB.Service\obj\Debug\GASB.Service.pdb
